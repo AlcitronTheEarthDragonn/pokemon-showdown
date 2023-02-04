@@ -1393,6 +1393,8 @@ export class TeamValidator {
 			setHas['pokemon:' + tierSpecies.id + 'gmax'] = true;
 			isGmax = true;
 		}
+		
+		if (tierSpecies.num >= 1009) return null;
 
 		const tier = tierSpecies.tier === '(PU)' ? 'ZU' : tierSpecies.tier === '(NU)' ? 'PU' : tierSpecies.tier;
 		const tierTag = 'pokemontag:' + toID(tier);

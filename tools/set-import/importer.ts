@@ -147,7 +147,7 @@ function eligible(dex: ModdedDex, id: ID) {
 function toGen(dex: ModdedDex, name: string): GenerationNum | undefined {
 	const pokemon = dex.species.get(name);
 	if (pokemon.isNonstandard === 'LGPE') return 7;
-	if (!pokemon.exists || (pokemon.isNonstandard && pokemon.isNonstandard !== 'CAP')) return undefined;
+	if (!pokemon.exists || (pokemon.isNonstandard && pokemon.isNonstandard !== 'CAP' && pokemon.isNonstandard !== 'AlciTribeTier')) return undefined;
 
 	const n = pokemon.num;
 	if (n >= 1009) return 7;

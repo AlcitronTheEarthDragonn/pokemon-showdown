@@ -3767,4 +3767,67 @@ export const PokedexText: {[k: string]: PokedexText} = {
 	alcitron: {
 		name: "Alcitron",
 	},
+	duuligan: {
+		name: "Duuligan",
+	},
+	mana: {
+		name: "Mana",
+	},
+	zenith: {
+		name: "Zenith",
+	},
+	dixie: {
+		name: "Dixie",
+	},
+	fatehunter: {
+		name: "Fatehunter",
+	},
+	shadow: {
+		name: "Shadow",
+	},
+	aerotorious: {
+		name: "Aerotorious",
+	},
+	emrald: {
+		name: "Emrald",
+	},
+	whiro: {
+		name: "Whiro",
+	},
+	umbra: {
+		name: "Umbra",
+	},
+	aeren: {
+		name: "Aeren",
+	},
+	accers: {
+		name: "Accers",
+	},
+	knoth: {
+		name: "Knoth",
+	},
+	zenesta: {
+		name: "Zenesta",
+	},
+	komo: {
+		name: "Komo",
+	},
+	sebastian: {
+		name: "Sebastian",
+	},
+	dawnchaser: {
+		name: "Dawnchaser",
+	},
+	solar: {
+		name: "Solar",
+	},
+	xenderen: {
+		name: "Xenderen",
+	},
+	mikes: {
+		name: "Mikes",
+	},
+	seabers: {
+		name: "Seabers",
+	},
 };

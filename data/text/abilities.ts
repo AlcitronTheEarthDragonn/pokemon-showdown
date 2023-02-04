@@ -288,8 +288,8 @@ export const AbilitiesText: {[k: string]: AbilityText} = {
 	},
 	cutecharm: {
 		name: "Cute Charm",
-		desc: "There is a 30% chance a Pokemon making contact with this Pokemon will become infatuated if it is of the opposite gender.",
-		shortDesc: "30% chance of infatuating Pokemon of the opposite gender if they make contact.",
+		desc: "There is a 30% chance a Pokemon making contact with this Pokemon will become infatuated.",
+		shortDesc: "30% chance of infatuating Pokemon if they make contact.",
 		gen4: {
 			desc: "There is a 30% chance a Pokemon making contact with this Pokemon will become infatuated if it is of the opposite gender. This effect does not happen if this Pokemon did not lose HP from the attack.",
 		},

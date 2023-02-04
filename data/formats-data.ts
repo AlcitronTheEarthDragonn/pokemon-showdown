@@ -6267,7 +6267,69 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	alcitron: {
-		isNonstandard: "AlciTribeTier",
-		tier: "AlciTribeTier",
+		tier: "OU",
+	},
+	duuligan: {
+		tier: "OU",
+	},
+	mana: {
+		tier: "OU",
+	},
+	zenith: {
+		tier: "OU",
+	},
+	dixie: {
+		tier: "OU",
+	},
+	fatehunter: {
+		tier: "OU",
+	},
+	shadow: {
+		tier: "OU",
+	},
+	aerotorious: {
+		tier: "OU",
+	},
+	emrald: {
+		tier: "OU",
+	},
+	whiro: {
+		tier: "OU",
+	},
+	umbra: {
+		tier: "OU",
+	},
+	aeren: {
+		tier: "OU",
+	},
+	accers: {
+		tier: "OU",
+	},
+	knoth: {
+		tier: "OU",
+	},
+	zenesta: {
+		tier: "OU",
+	},
+	komo: {
+		tier: "OU",
+	},
+	sebastian: {
+		tier: "OU",
+	},
+	dawnchaser: {
+		tier: "OU",
+	},
+	solar: {
+		tier: "OU",
+	},
+	xenderen: {
+		tier: "OU",
+	},
+	mikes: {
+		tier: "OU",
+	},
+	seabers: {
+		tier: "OU",
 	},
 };

@@ -485,7 +485,7 @@ function runDexsearch(target: string, cmd: string, canAll: boolean, message: str
 		publ: 'PUBL', pu: 'PU', zu: '(PU)',
 		nfe: 'NFE',
 		lc: 'LC',
-		cap: 'CAP', caplc: 'CAP LC', capnfe: 'CAP NFE',
+		cap: 'CAP', caplc: 'CAP LC', capnfe: 'CAP NFE', alcitribetier: 'AlciTribeTier'
 	});
 	const allDoublesTiers: {[k: string]: TierTypes.Singles | TierTypes.Other} = Object.assign(Object.create(null), {
 		doublesubers: 'DUber', doublesuber: 'DUber', duber: 'DUber', dubers: 'DUber',
